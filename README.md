@@ -1,7 +1,11 @@
 ## <SCREENSHOT>
 
 ##Description
-  <scavenger> is a scavenger hunt is a game where players race to collect a number of miscellaneous objects. The list of objects may be a simple list or a series of riddles the user has to solve. Scavenge packages this all up in an app.
+  <scavenger> is a single player scavenger hunt game played on a mobile app, in which players can start scavenger hunts from a hunt template provided by an api. Each hunt will have a description, duration, objectives, & a map defining the boundaries of the playing field. i.e. where the user can find the answers to the riddles in each game. The objective of <scavenger> is to solve all the riddles or "objectives" in a hunt <before time runs out> OR <as fast as possible>.
+
+### Plans for Further Development
+  Multiplayer Events - Players will be able to join 'Hunt Events' with specific start / end times
+  Team Games - Players can create / join teams & play against other single players or teams
 
 ##technologies & Concepts
   ####Technologies used:
@@ -9,12 +13,15 @@
   CSS
   JAVASCRIPT
   Ionic
+  - Angular-google-maps
   Ruby on Rails
+  - PostgreSQL
 
 ##Approach Taken
-  Step one is to create an api from which an app could pull Scavenger Hunt Lists so that users could easlily aquire the same list and get on with playing the game
+  I plan to begin building <scavenger> by building out an api to serve hunts, excluding map data, to the client app (ionic app).
 
-  Next,
+
+  Once i can request all the information needed form the api & associate information (hunt data) with a user i will begin building the ionic
 
 ##Installation Instructions
 
@@ -25,5 +32,6 @@
 ##auth Requirements
 
 ##Trello
+https://trello.com/b/VfFSaWHh/scavenger
 
-##Heroku / App Download
+##Heroku / App Download Instructions or link
