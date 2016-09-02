@@ -27,6 +27,15 @@
 
 ##Unsolved Problems
 
+##ERD
+![ERD](https://github.com/chrisdillon92/scavenger/blob/master/resources/ERD.png "ERD")
+
+##Wireframes
+![wireframe 1](https://github.com/chrisdillon92/scavenger/blob/master/resources/wire%201.png "wireframe 1")
+![wireframe 2](https://github.com/chrisdillon92/scavenger/blob/master/resources/wire%202.png "wireframe 2")
+![wireframe 3](https://github.com/chrisdillon92/scavenger/blob/master/resources/wire%203.png "wireframe 3")
+![wireframe 4](https://github.com/chrisdillon92/scavenger/blob/master/resources/wire%204%20stretch.png "wireframe 4")
+
 ##Routes
 
 ##auth Requirements
