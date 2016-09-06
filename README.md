@@ -2,6 +2,10 @@
 
 ##Description
   <scavenger> is a single player scavenger hunt game played on a mobile app. Players can start scavenger hunts from a hunt template provided by an api. Each hunt will have a description, duration, objectives, & a map defining the boundaries of the playing field. A hunt objective has a title, description/riddle, and an input field for checking a user's answer against the answer key. The objective of <scavenger> is to solve all the riddles or "objectives" in a hunt <before time runs out> OR <as fast as possible>.
+####Link To API
+https://github.com/chrisdillon92/scavenger_api
+####Link To Ionic Project
+...
 
 ### Plans for Further Development
 - Multiplayer Events - Players will be able to join 'Hunt Events' with specific start / end times
