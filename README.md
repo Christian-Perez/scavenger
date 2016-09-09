@@ -60,7 +60,7 @@ https://github.com/chrisdillon92/scavenger_ionic
 
 ## Ionic Prototype
 
-![wireframe 4](https://github.com/chrisdillon92/scavenger/blob/master/resources/wire%204%20stretch.png "Prototype main view")
+![wireframe 4](https://github.com/chrisdillon92/scavenger/blob/master/resources/Ionic%20Prototype.png "Prototype main view")
 
 ##ERD
 ![ERD](https://github.com/chrisdillon92/scavenger/blob/master/resources/ERDv2.png "ERD")
