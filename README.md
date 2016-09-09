@@ -58,6 +58,10 @@ https://github.com/chrisdillon92/scavenger_ionic
 ##Unsolved Problems
   markCompleted function does not work when populating the page, but works when answering a question. So, even if an objective is completed, it will show up as incomplete when the app is reloaded.
 
+## Ionic Prototype
+
+![wireframe 4](https://github.com/chrisdillon92/scavenger/blob/master/resources/wire%204%20stretch.png "Prototype main view")
+
 ##ERD
 ![ERD](https://github.com/chrisdillon92/scavenger/blob/master/resources/ERDv2.png "ERD")
 
