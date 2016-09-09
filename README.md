@@ -6,14 +6,22 @@
 https://github.com/chrisdillon92/scavenger_api
 ####Link To Ionic Project Repo
 https://github.com/chrisdillon92/scavenger_ionic
+###Installation instructions
+
 ####To test Ionic App On Your Device
  - Download Ionic View from Google Play or the App Store
  - use app id 4a06f62a
  OR
- - fork / clone this repository to your local machine
+ - fork / clone the scavenger-ionic repository to your local machine
  - navigate to your app
  - connect your phone & allow file transfers
  - run 'ionic run' to install app on your local phone (aditional steps may be required for iphones)
+ - 
+ #### To run the API server locally on your machine
+- fork / clone the scavenger-api repository to your local machine
+- navigate to the app
+- in the command line run 'rails db:create db:migrate db:seed'
+- use 'rails s' to launch 
 
 ### Plans for Further Development
 - finish implementing MVP :P
@@ -53,8 +61,6 @@ https://github.com/chrisdillon92/scavenger_ionic
 
   Add a Team Play feature where users can create / join teams and compete agains each other to complete hunts faster than their opponents
 
-##Installation Instructions
-
 ##Unsolved Problems
   markCompleted function does not work when populating the page, but works when answering a question. So, even if an objective is completed, it will show up as incomplete when the app is reloaded.
 
@@ -77,9 +83,6 @@ https://github.com/chrisdillon92/scavenger_ionic
 ##Routes
 /hunts/:hunt_Id >> returns json of hunt & all data required for displaying/updating hunt.
 
-##auth Requirements
-
-none yet
 
 ##Trello
 https://trello.com/b/VfFSaWHh/scavenger
