@@ -14,7 +14,7 @@
 - Ionic
 - Angular-google-maps
 - Ruby on Rails
-- jwt Gem * 
+- jwt Gem *
 - devise
 - PostgreSQL
 
@@ -23,7 +23,7 @@
 
   Once i can request all the information needed from the api & associate that information with a user(user id, not jwt) through authentication i will begin building the ionic app to consume the api
 
-  Once the api and app can both handle hunts I'll begin implementing the map's feature
+  the last step will be implementing the map's feature
 
 
 
